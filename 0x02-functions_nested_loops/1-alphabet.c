@@ -5,14 +5,14 @@
  *
  * Return: Always 0.
  */
-int main(void)
+void print alphabet(void)
 {
 
-char alphabet;
-alphabet = 'a';
-while (alphabet <= 'z')
+char alpha;
+alpha = 'a';
+while (alpha <= 'z')
 {
-alphabet++;
+alpha++;
 _putchar(alpha);
 }
 _putchar('\n');
