@@ -1,10 +1,9 @@
-#include <stdio.h>
+#include <stdio>
 
 /**
- * main - causes an infinite loop
- * Return: 0
- * '\o/\n" - an emoji for avoiding
- */
+* main - causes an infinite loop
+* Return: 0
+*/
 
 int main(void)
 {
@@ -20,5 +19,6 @@ i = 0;
 * }
 */
 printf("Infinite loop avoided! \\o/ \n");
+
 return (0);
 }
