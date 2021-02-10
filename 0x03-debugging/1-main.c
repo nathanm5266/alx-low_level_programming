@@ -5,6 +5,7 @@
 * Return: 0
 */
 
+int main(void)
 {
 int i;
 
@@ -17,11 +18,7 @@ i = 0;
 * putchar(i);
 * }
 */
-<<<<<<< HEAD
 printf("Infinite loop avoided! \\o/\n");
-=======
-printf("Infinite loop avoided! \\o/ \n");
->>>>>>> 1867f346cb65a8795c0636359d40187458ffc5ce
 
 return (0);
 }
