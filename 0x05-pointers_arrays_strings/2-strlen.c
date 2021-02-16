@@ -1,0 +1,18 @@
+#include "holberton.h"
+
+/**
+ * _sterlen - returns the length of a string
+ * @s: string
+ * Return: length of a string
+ */
+
+int _sterlen(char *s)
+{
+int len = 0;
+while (*s != '\0')
+{
+len++;
+s++;
+}
+return (len);
+}
