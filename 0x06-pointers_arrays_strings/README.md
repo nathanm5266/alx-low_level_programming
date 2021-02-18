@@ -1,0 +1,1 @@
+A directory for pointers arrays and string.
