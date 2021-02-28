@@ -1,0 +1,11 @@
+#include "holberton.h"
+
+/**
+ * _isupper - function for changing to uppercase
+ * @c: the variable to be changed to upper case
+ * Return: the uppercase value 
+ */
+
+int _isupper(int c)
+{
+}

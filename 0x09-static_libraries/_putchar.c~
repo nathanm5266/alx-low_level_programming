@@ -1,0 +1,12 @@
+#include "holberton.h"
+
+/**
+ * _putchar - a function for displaying a string
+ * @c: accepts a string variable
+ * Return: the string
+ */
+
+int _putchar(char c)
+{
+}
+  
